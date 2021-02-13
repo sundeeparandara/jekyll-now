@@ -9,7 +9,9 @@ Howdy! This is a "blog post" with me testing out markdown. I was brought up on M
 
 I am currently typing this on my Window PC using a software called Typora (a markdown editor).
 
-For future reference, go here: https://www.markdownguide.org/cheat-sheet/
+For future reference, go here:
+
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 # Heading 1 
 
