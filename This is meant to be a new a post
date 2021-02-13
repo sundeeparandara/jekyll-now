@@ -1,0 +1,32 @@
+---
+published: false
+---
+## A New Post
+
+### This is meant to be a new post
+
+This is meant to be a new post
+
+**This is meant to be a new post**
+
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+	print("This is meant to be a new post")
+
+
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
