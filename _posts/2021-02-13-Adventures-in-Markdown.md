@@ -11,7 +11,7 @@ I am currently typing this on my Window PC using a software called Typora (a mar
 
 For future reference, go here:
 
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+🔗[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 # Heading 1 
 
