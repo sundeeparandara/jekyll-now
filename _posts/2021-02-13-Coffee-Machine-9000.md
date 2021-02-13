@@ -6,4 +6,4 @@ published: true
 
 Coffee Machine 9000
 
-![coffee](../assets/coffee.jpg)
+![coffee](../assets/coffee-machine-9000.gif)
