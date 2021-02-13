@@ -5,7 +5,7 @@ published: true
 ---
 
 
-Howdy! This is "blog post" with me testing out markdown. I was brought up on MS Word...cut me some slack 🤣
+Howdy! This is a "blog post" with me testing out markdown. I was brought up on MS Word...cut me some slack 🤣
 
 I am currently typing this on my Window PC using a software called Typora (a markdown editor).
 
